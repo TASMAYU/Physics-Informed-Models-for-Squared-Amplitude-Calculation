@@ -1,3 +1,4 @@
 # Physics-Informed-Models-for-Squared-Amplitude-Calculation
+
 One of the most important physical quantities in particle physics is the cross section, or a probability that a particular process takes place in the interaction of elementary particles. Its measure provides a testable link between theory and experiment. It is obtained theoretically mainly by calculating the squared amplitude. Previous work has explored the use of language translation techniques to predict text-based squared amplitudes from text-based representations of Feynman diagrams or their amplitudes. This project aims to improve numerical accuracy or reduce computational cost by moving from purely language-translation-based solutions to solutions based on physically-motivated machine learning models. This project is closely related to the project “Physics-Informed Encoding and Decoding for Squared Amplitude Calculation”.
 
