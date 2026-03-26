@@ -1,0 +1,1 @@
+# Physics-Informed-Models-for-Squared-Amplitude-Calculation
